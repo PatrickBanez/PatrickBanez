@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PatrickBanez
-- 👀 I’m interested in ... Desktop application, Android, and Web development
+- 👀 I’m interested in ... Desktop application, Android development, and Embedded Systems.
 - 🌱 I’m currently learning ... Java, git, kotlin, Spring Boot
 - 💞️ I’m looking to collaborate on ... all kinds of projects
 - 📫 How to reach me ... patrickgbanez@gmail.com
